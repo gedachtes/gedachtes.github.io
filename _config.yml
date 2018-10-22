@@ -7,14 +7,14 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
+title:            Gedachtes
+tagline:          'Dieser Blog ist der wahnhafte Fehlversuch Gedanken zu debuggen und zum scheitern verurteilt.'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+url:              https://gedacht.es
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'Bubl'
   url:            https://twitter.com/mdo
 
 paginate:         5
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/gedachtes/gedachtes.github.io/
