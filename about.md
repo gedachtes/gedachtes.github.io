@@ -11,5 +11,6 @@ Wenn ihr was lernen wollt, gönnt Euch doch einfach:
  * [WaitButWhy](https://www.waitbutwhy.com)
  * [Nature](https://www.nature.com)
  * [Merch](https://www.gucci.com/us/en/)
+ * [Sounds](https://www.youtube.com/watch?v=NLkbqWSY6Bg)
 
 Bis dann.
